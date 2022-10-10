@@ -1,6 +1,6 @@
-num=9;
-if(num%3==0){
-    console.log("Yes")
+num=10;
+if(num%2==0){
+    console.log("Even number")
 }else{
-    console.log("No")
+    console.log("Odd number")
 }
